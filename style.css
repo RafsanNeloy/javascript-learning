@@ -1,0 +1,40 @@
+#heading-id {        
+    color: blue;
+}
+.heading-class {
+    color: teal;
+}
+body {
+    background-color: lightgray;
+}
+
+.box {
+    height: 200px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: bisque;
+}
+.content {
+    color: red;
+}
+.newClass {
+    background-color: green;
+}
+button {
+    color: red;
+    position: relative;
+    margin: 100px;
+
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
