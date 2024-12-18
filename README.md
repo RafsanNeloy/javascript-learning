@@ -1,2 +1,4 @@
 # javascript-learning
-A noob is trying to be a pro 
+javascript with some projects for learning.
+remove /*__*/ if you want to learn from this and try yourself
+
