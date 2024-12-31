@@ -12,6 +12,7 @@ userScore=0;
 compScore=0;
 userScr.innerText=userScore;
 compScr.innerText=compScore;
+msg.innerText="Play your move";
 console.log("reset clicked");
  };
  reset.addEventListener("click",resetGame);
